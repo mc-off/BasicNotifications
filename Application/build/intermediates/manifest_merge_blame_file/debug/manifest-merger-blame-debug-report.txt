@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2013 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.basicnotifications"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="14"
+23-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="27" />
+24-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+25
+26    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+27    <application
+27-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:25:5-38:19
+28        android:allowBackup="true"
+28-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:26:9-35
+29        android:debuggable="true"
+30        android:icon="@drawable/ic_launcher"
+30-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:27:9-45
+31        android:label="@string/app_name"
+31-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:28:9-41
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:29:9-40
+34        <activity
+34-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:30:9-37:20
+35            android:name="com.example.android.basicnotifications.MainActivity"
+35-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:31:13-41
+36            android:label="@string/app_name" >
+36-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:32:13-45
+37            <intent-filter>
+37-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:33:13-36:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:34:17-68
+38-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:34:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:35:17-76
+40-->C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:35:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\af8bf8d828356614cabb1154fc947105\gridlayout-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:19:5-53
+	android:versionName
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.basicnotifications.MainActivity
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\af8bf8d828356614cabb1154fc947105\gridlayout-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\af8bf8d828356614cabb1154fc947105\gridlayout-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\9. Notifications\BasicNotifications\Application\src\main\AndroidManifest.xml
