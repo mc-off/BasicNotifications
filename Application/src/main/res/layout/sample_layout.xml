@@ -32,11 +32,20 @@ limitations under the License.
         android:layout_weight="1"/>
 
     <Button
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Do it!"
-        android:id="@+id/button"
         android:layout_gravity="center"
-        android:onClick="sendNotification"/>
+        android:onClick="sendNotification"
+        android:text="Do it!" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:onClick="sendNotification"
+        android:text="One more thing..." />
 
 </LinearLayout>

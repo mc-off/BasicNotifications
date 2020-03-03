@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\9. Notifications\\BasicNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/Users/mc_off/StudioProjects/BasicNotifications/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\maxim_leykin\\.gradle\\caches\\transforms-2\\files-2.1\\1751590356a59f4e1594bb776040d734\\appcompat-v7-27.0.2\\res\\values-land\\values-land.xml",
+                    "source": "/Users/mc_off/.gradle/caches/transforms-2/files-2.1/2c6c92180058c66e00493c649cc15d98/appcompat-1.0.0/res/values-land/values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

@@ -19,6 +19,7 @@
     package="com.example.android.basicnotifications"
     android:versionCode="1"
     android:versionName="1.0">
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 
